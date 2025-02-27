@@ -1,8 +1,8 @@
 # MMPRepo
 Repo pt Gabi Mircea
 
-Elev - Nume
-     - Prenume
+Student  - Nume
+          - Prenume
      - Nr. matricol
      - Facultate
      - Sectie
